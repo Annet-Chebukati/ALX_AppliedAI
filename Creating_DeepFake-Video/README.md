@@ -26,7 +26,7 @@ Upload the respective files to their designated sections and click "Reface" (the
 The output file is accessible on the Refacer web app. However, if the video does not appear promptly, check the Colab file for a completion message indicating the location of the refaced video. You can access the file explorer to retrieve the refaced video.
 
 ## Output Video
-[Deepfake Screenshot]()
+![Deepfake_Screenshot](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Creating_DeepFake-Video/Deepfake.png)
 You can watch the output video of the deepfake [here](https://youtu.be/0mOdxJeZ0mU). It's truly amazing to see the transformation! The link provides a side-by-side comparison of the original (on the left) and my deepfake version (on the right).
 
 
