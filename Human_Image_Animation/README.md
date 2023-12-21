@@ -17,7 +17,7 @@ This groundbreaking research paper, titled "MagicAnimate: Temporally Consistent 
 
 ## Project Steps
 1. **Setting the Stage**: We need a reference image and a motion sequence. The motion sequence will guide the movement of the character on the reference image when generating the animation.
-2. **Generate Motion Sequence with vid2densepos**: Use [vid2densepos](https://github.com/Flode-Labs/vid2densepose?ref=alxappliedai.com)to generate your motion sequence. You can drag and drop your video into the file explorer of your Colab runtime. You can name your file anything but if it is not "input_video.mp4" make sure to change the INPUT_VIDEO_PATH. Click on the play button to install the required libraries and convert the input file into a Densepose file. This file will appear on the file explorer. Once you have done these steps, you can download your output motion sequence Densepose file. We will use this file later.
+2. **Generate Motion Sequence with vid2densepos**: Use [vid2densepos](https://github.com/Flode-Labs/vid2densepose?ref=alxappliedai.com) to generate your motion sequence. You can drag and drop your video into the file explorer of your Colab runtime. You can name your file anything but if it is not "input_video.mp4" make sure to change the INPUT_VIDEO_PATH. Click on the play button to install the required libraries and convert the input file into a Densepose file. This file will appear on the file explorer. Once you have done these steps, you can download your output motion sequence Densepose file. We will use this file later.
 3. **Running the Magic**: MagicAnimate on Google Colab processes your files faster as you will be using your runtime. However, make sure you are using a very short motion sequence Densepose file (around 5 sec maximum). Once finished, you can access the MagicAnimate web app using the link provided.
 4. **Generating the Magic**: Upload the following required files:
     - **Reference Image**: I'll be using an AI-generated image of a person, but you can use any image of your choice. For better results, please use a square image. You can generate such an image for free using several services such as [Bing Image Creator](https://www.bing.com/images/create?FORM=GDPGLP&ref=alxappliedai.com).
@@ -26,4 +26,5 @@ This groundbreaking research paper, titled "MagicAnimate: Temporally Consistent 
 
 ## Output Video
 ![Human Image Animation](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Human_Image_Animation.png)
+
 You can watch the output video of the project [here](https://youtu.be/w8b87GyMjWE).
