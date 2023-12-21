@@ -27,6 +27,7 @@ The output file is accessible on the Refacer web app. However, if the video does
 
 ## Output Video
 ![Deepfake_Screenshot](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Creating_DeepFake-Video/Deepfake.png)
+
 You can watch the output video of the deepfake [here](https://youtu.be/0mOdxJeZ0mU). It's truly amazing to see the transformation! The link provides a side-by-side comparison of the original (on the left) and my deepfake version (on the right).
 
 
