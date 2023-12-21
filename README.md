@@ -1,4 +1,4 @@
-# [Applied AI Program](https://www.alxappliedai.com/about/
+# [Applied AI Program](https://www.alxappliedai.com/about/)
 
 Welcome to my repository for the Applied AI Program, a pioneering initiative designed by ALX.
 
