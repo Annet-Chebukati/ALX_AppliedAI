@@ -13,7 +13,7 @@ Here are the projects I've completed as part of the Applied AI Program:
 
 - [Project 1: Creating a Deepfake Video - The Trailer](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Creating_DeepFake-Video)
 - [Project 2: Human Image Animation with Diffusion Models - A Revolution in Motion](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Human_Image_Animation)
-- [Project 3: Pixels of Possibility: A look at AI Image Generation]()
+- [Project 3: Pixels of Possibility: A look at AI Image Generation](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/AI_Image_Generation)
 
 ---------
 Feel free to dive in and explore these projects. Have fun experiencing the magic of AI!
