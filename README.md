@@ -16,6 +16,7 @@ Here are the projects I've completed as part of the Applied AI Program:
 - [Project 3: Pixels of Possibility: A look at AI Image Generation](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/AI_Image_Generation)
 - [Project 4: Voices in the Machine - AI Speech Generation](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/AI_Speech_Generation)
 - [Project 5: From Text to Moving Pictures - An Intro to AI Video Generation](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/AI_Video_Generation)
+- [Project 6: Forget Skimming, Ask Away - Chatting with Documents](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Chatting_With_Documents)
 
 ---------
 Feel free to dive in and explore these projects. Have fun experiencing the magic of AI!
