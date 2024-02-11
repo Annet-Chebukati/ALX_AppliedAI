@@ -32,6 +32,18 @@ To dive into the realm of AI-generated art, I followed these steps:
    - I fired up the `webui-user.bat` from Windows Explorer as a regular, non-admin user.
    - Excitement filled the air as I visited [http://127.0.0.1:7860](http://127.0.0.1:7860) in my browser—the gateway to my AI art adventure.
 
+**WebUI Screenshots**
+
+![WebUI 1](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/AI_Image_Generation/AI_Image_Generation_1.png)
+
+![WebUI 2](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/AI_Image_Generation/AI_Image_Generation_2.png)
+
+**Output Images**
+
+![Image1](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/AI_Image_Generation/Output_Image_1.png)
+
+![Image2](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/AI_Image_Generation/Output_Image_2.png)
+
 ## Exploring Models and Customization
 The Stable Diffusion WebUI is a treasure trove of possibilities. Here are some highlights:
 
