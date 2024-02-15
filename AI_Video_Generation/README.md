@@ -11,6 +11,9 @@ Imagine this: **from whispers of text**, entire worlds emerge. Characters stretc
 I didn't need a wizard's wand or a 3D guru's expertise. Instead, I wielded AI tools, like **Pika Labs**, as my digital brushes. With each stroke, I painted scenes that pulsed with life.
 
 ## Pika Labs
+
+![pikalabs](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/AI_Video_Generation/PikaLabs.png)
+
 To use Pika Labs text-to-video generating tool using Discord. [Pika Labs Discord Bot](http://discord.gg/pika) currently supports text and images as input for video generation, and private generations by directly messaging the bot.
 
 To generate a video I used the "**generate-room-#**" channels.
