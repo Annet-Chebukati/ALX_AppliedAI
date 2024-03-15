@@ -1,5 +1,7 @@
 # Creating a Deep Fake Video with Refacer
 
+Watch [Deep Fake](https://youtu.be/0mOdxJeZ0mU) video on YouTube.
+
 ## Introduction
 Welcome to the fascinating world of deepfake technology, powered by advancements in AI. While creating unique content has become more accessible, it's crucial to use this technology responsibly. This README guides you through the process of creating a deepfake video using free AI tools. I embarked on this adventure with the captivating trailer of the docuseries 'African Queens' from Netflix, which tells the story of the warrior Queen Njinga of Angola. In a twist of digital magic, I replaced Queen Njinga's face with my own!
 
